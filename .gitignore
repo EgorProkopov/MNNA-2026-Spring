@@ -1,3 +1,6 @@
 .vevn
 .DS_Store
 /Seminars/seminar1/data
+/Seminars/seminar2/clearml_outputs
+/Seminars/seminar2/checkpoints
+/Seminars/seminar2/logs
